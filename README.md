@@ -18,8 +18,6 @@
 - 🛠️ Como executar o projeto
 - ⭐ Desafio do Projeto
 - 📂 Temas abordados
-- 🙋🏻‍♂️ Autor
-- 💻 Licença
 
 <br>
 
